@@ -1,0 +1,18 @@
+.odd, #third {
+    background-color: rgb(243, 179, 195);
+    font-family: serif;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+#third{
+    font-size: 20px;
+    font-weight: bold;
+}
+#fourth{
+    background-color: hsl(86, 82%, 68%);
+    font-size: 24px;
+    font-weight: bold;
+}
